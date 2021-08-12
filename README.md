@@ -16,3 +16,6 @@
   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=IKangXu&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" />
 </a>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
