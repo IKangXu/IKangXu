@@ -17,8 +17,6 @@
 </a>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
 **🐱 My Github Data** 
 
 > 🏆 26 Contributions in the Year 2021
