@@ -1,5 +1,13 @@
 ### Hey 👋, I'm [IKangXu](https://ikangxu.cn) 👨‍💻
 
+---
+
+![image](https://user-images.githubusercontent.com/17905150/129289038-45b612fe-c13c-4f7a-9e07-4000ff932787.png)
+
+<h1>Narrow road meet, code revere win.</h1>
+
+<br />
+
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=IKangXu&show_icons=true&layout=compact&theme=graywhite&hide_border=true&locale=en" />
 </a>
