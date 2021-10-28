@@ -31,7 +31,7 @@
 
 > 🏆 36 Contributions in the Year 2021
  > 
-> 📦 28.0 kB Used in GitHub's Storage 
+> 📦 28.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -101,6 +101,6 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/IKangXu/IKangXu/main/charts/bar_graph.png) 
 
 
- Last Updated on 27/10/2021
+ Last Updated on 28/10/2021
 <!--END_SECTION:waka-->
 
